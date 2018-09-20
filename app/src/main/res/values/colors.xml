@@ -5,7 +5,7 @@
     <color name="colorAccent">#FF4081</color>
 
     <color name="lightGray">#DDDDDDDD</color>
-    <color name="darkGreen">#40F0</color>
-    <color name="lightGreen">#F0F0</color>
-    <color name="darkBlue">#F00F</color>
+    <color name="darkGreen">#40C0</color>
+    <color name="lightGreen">#F050</color>
+    <color name="darkBlue">#F90F</color>
 </resources>
